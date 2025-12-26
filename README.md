@@ -59,7 +59,7 @@
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/InsightDash.git
+git clone https://github.com/ArshmanHussain/QuickInsights.git
 ```
 
 2. Install dependencies:
@@ -77,6 +77,3 @@ python run.py
 4. Open your browser at `http://127.0.0.1:5000` and start uploading CSVs.
 
 ---
-
-
-Do you want me to do that next?
